@@ -1,0 +1,10 @@
+name: abwebapp
+title:
+username:
+account: pwharned
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1731779
+bundleId: 2764236
+url: https://pwharned.shinyapps.io/abwebapp/
+when: 1580399426.61046
